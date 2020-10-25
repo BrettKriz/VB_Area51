@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TESTS - Area 51CODES", "TESTS - Area 51CODES\TESTS - Area 51CODES.vbproj", "{AF1A35BD-2D54-47A1-8318-C492403B0BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1A35BD-2D54-47A1-8318-C492403B0BB2}.Debug|x86.ActiveCfg = Debug|x86
+		{AF1A35BD-2D54-47A1-8318-C492403B0BB2}.Debug|x86.Build.0 = Debug|x86
+		{AF1A35BD-2D54-47A1-8318-C492403B0BB2}.Release|x86.ActiveCfg = Release|x86
+		{AF1A35BD-2D54-47A1-8318-C492403B0BB2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

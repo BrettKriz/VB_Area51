@@ -1,0 +1,6 @@
+u:\visual studio 2010\Projects\TESTS - Area 51CODES\TESTS - Area 51CODES\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\TESTS - Area 51CODES\TESTS - Area 51CODES\obj\x86\Debug\Area_51_Test.Form1.resources
+u:\visual studio 2010\Projects\TESTS - Area 51CODES\TESTS - Area 51CODES\obj\x86\Debug\Area_51_Test.Form2.resources
+u:\visual studio 2010\Projects\TESTS - Area 51CODES\TESTS - Area 51CODES\obj\x86\Debug\Area_51_Test.Resources.resources
+u:\visual studio 2010\Projects\TESTS - Area 51CODES\TESTS - Area 51CODES\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\TESTS - Area 51CODES\TESTS - Area 51CODES\obj\x86\Debug\GenerateResource.write.1.tlog

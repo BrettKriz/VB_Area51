@@ -1,0 +1,11 @@
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\bin\Debug\Area 51 Test.exe
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\bin\Debug\Area 51 Test.pdb
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\bin\Debug\Area 51 Test.xml
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\obj\x86\Debug\Area_51_Test.Form1.resources
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\obj\x86\Debug\Area_51_Test.Resources.resources
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\obj\x86\Debug\Area 51 Test.exe
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\obj\x86\Debug\Area 51 Test.xml
+C:\Documents and Settings\krizba\Local Settings\Application Data\Temporary Projects\Area 51 Test\obj\x86\Debug\Area 51 Test.pdb
